@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://instagram.com/aaneclemente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaneclemente" height="30" width="40" /></a>
 <a href="https://twitter.com/aneclemente_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aneclemente_" height="30" width="40" /></a>
+  <a href="https://tiktok.vom/aneclemente_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaneclemente" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
